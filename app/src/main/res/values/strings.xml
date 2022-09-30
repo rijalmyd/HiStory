@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HiStory</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget</string>
+    <string name="image_stack_desc">Gambar stack widget</string>
+    <string name="profile">Profil</string>
+    <string name="language">Bahasa</string>
+    <string name="others">Lainnya</string>
+    <string name="logout">Keluar</string>
+    <string name="create_story_here">Buat ceritamu disini</string>
+    <string name="add_desc">Tambah keterangan…</string>
+    <string name="location">Lokasi</string>
+    <string name="add_img">Tambahkan gambar</string>
+    <string name="del_img">Hapus gambar</string>
+    <string name="login_title">Silahkan masuk.</string>
+    <string name="login_welcome">Selamat datang. \nkamu sudah ditunggu!</string>
+    <string name="dont_have_account">Tidak mempunyai akun? Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="gambar_welcome">Gambar selamat datang</string>
+    <string name="onboard_title">Buat cerita menarikmu disini.</string>
+    <string name="onboard_detail">Aplikasi yang akan selalu menemani kapanpun dan dimanapun kamu berada.</string>
+    <string name="register">Daftar</string>
+    <string name="register_title">Ayo daftarkan dirimu.</string>
+    <string name="register_create">Buat akun.</string>
+    <string name="name">Nama</string>
+    <string name="have_account">Sudah punya akun? Masuk</string>
+    <string name="gallery">Galeri</string>
+    <string name="camerax">KameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="home">Home</string>
+    <string name="error_desc">Wajib mengisi deskripsi</string>
+    <string name="error_choose_img">Pilih gambar dahulu!</string>
+    <string name="error_permission">Tidak mendapatkan permissions!</string>
+    <string name="error_camera">Kamera gagal</string>
+    <string name="email">Email</string>
+    <string name="error_email">Masukkan alamat email yang valid</string>
+    <string name="password">Sandi</string>
+    <string name="error_password"><![CDATA[Sandi harus >= 6 karakter]]></string>
+    <string name="under_development">Dalam pengembangan</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="choose_image">Pilih gambar</string>
+    <string name="no_location">Lokasi tidak ditemukan</string>
+    <string name="failed_get_photo">Gagal mengambil gambar</string>
+    <string name="no_story_location">Tidak ada cerita lokasi</string>
+</resources>

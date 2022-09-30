@@ -1,0 +1,99 @@
+1. SplashViewModelTest
+	a. Ketika status login adalah true
+		* Memastikan mengembalikan nilai sesuai dengan yang diharapkan
+	b. Ketika status login adalah false
+		* Memastikan mengembalikan nilai sesuai dengan yang diharapkan
+
+2. LoginViewModelTest
+	a. Ketika berhasil memuat data login
+		* Memastikan data tidak null
+		* Memastikan mengembalikan Result.Success
+		* Memastikan data result sesuai dengan yang diharapkan
+	b. Ketika gagal memuat data login
+		* Memastikan mengembalikan Result.Error
+	c. Ketika menyimpan token
+		* Memastikan fungsi saveToken di AuthRepository terpanggil
+	d. Ketika mengubah status login
+		* Memastikan fungsi setLoginStatus di AuthRepository terpanggil
+
+3. RegisterViewModelTest
+	a. Ketika berhasil memuat data register
+		* Memastikan mengembalikan Result.Success
+	b. Ketika gagal memuat data register
+		* Memastikan mengembalikan Result.Error
+
+4. HomeViewModelTest
+	a. Ketika mengambil token
+		* Memastikan data tidak null
+	b. Ketika berhasil memuat data story
+		* Memastikan data tidak null
+		* Memastikan data sesuai dengan yang diharapkan
+		* Memastikan jumlah data sesuai dengan yang diharapkan
+		* Memastikan data name sesuai dengan yang diharapkan
+
+5. ProfileViewModelTest
+	a. Ketika mengubah status login
+		* Memastikan setLoginStatus di AuthRepository terpanggil
+	b. Ketika menghapus token
+		* Memastikan deleteToken di AuthRepository terpanggil
+
+6. MapsViewModelTest
+	a. Ketika mengambil token
+		* Memastikan data token tidak null
+	b. Ketika berhasil memuat data story lokasi
+		* Memastikan data story tidak null
+		* Memastikan mengembalikan Result.Success
+		* Memastikan jumlah data sesuai dengan yang diharapkan
+	c. Ketika gagal memuat data story lokasi
+		* Memastikan mengembalikan Result.Error
+	d. Ketika data story lokasi kosong
+		* Memastikan mengembalikan Result.Success
+		* Memastikan data story null
+
+7. AddViewModelTest
+	a. Ketika mengambil token
+		* Memastikan token tidak null
+	b. Ketika berhasil membuat cerita
+		* Memastikan mengembalikan Result.Success
+	c. Ketika gagal membuat cerita
+		* Memastikan mengembalikan Result.Error
+
+8. AuthRepositoryImplTest
+	a. Ketika berhasil register dari internet
+		* Memastikan response tidak null
+		* Memastikan data response sesuai dengan yang diharapkan
+	b. Ketika gagal register dari internet
+		* Memastikan response tidak null
+		* Memastikan data message sesuai dengan yang diharapkan
+	c. Ketika berhasil login dari internet
+		* Memastikan response tidak null
+		* Memastikan data response sesuai dengan yang diharapkan
+	d. Ketika gagal login dari internet
+		* Memastikan response tidak null
+		* Memastikan data message sesuai dengan yang diharapkan
+	e. Ketika mengambil status login untuk pertama kali dari data store
+		* Memastikan data tidak null
+		* Memastikan nilai data adalah false sesuai dengan yang diharapkan
+	f. Ketika mengambil status login dari data store adalah true
+		* Memastikan data tidak null
+		* Memastikan data sesuai dengan yang diharapkan
+	g. Ketika mengambil status login dari data store adalah false
+		* Memastikan data tidak null
+		* Memastikan data sesuai dengan yang diharapkan
+	h. Ketika menyimpan token dari data store
+		* Memastikan getToken tidak null
+		* Memastikan data token sesuai dengan yang diharapkan
+	i. Ketika menghapus token dari data store
+		* Memastikan getToken bernilai null
+
+9. StoryRepositoryImplTest
+	a. Ketika berhasil memuat data story
+		*  Memastikan data tidak null
+		* Memastikan jumlah data sesuai dengan yang diharapkan
+	b. Ketika berhasil memuat data story lokasi dari internet
+		* Memastikan data tidak null
+		* Memastikan jumlah data sesuai dengan yang diharapkan
+	c. Ketika berhasil membuat cerita
+		* Memastikan response tidak null
+		* Memastikan response sesuai dengan yang diharapkan
+

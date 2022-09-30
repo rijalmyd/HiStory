@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/button_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        app:borderWidth="0dp"
+        app:elevation="0dp"
+        app:backgroundTint="@color/black"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:ignore="ContentDescription" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/iv_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_baseline_arrow_forward_24"
+        app:layout_constraintTop_toTopOf="@id/button_add"
+        app:layout_constraintStart_toStartOf="@id/button_add"
+        app:layout_constraintEnd_toEndOf="@id/button_add"
+        app:layout_constraintBottom_toBottomOf="@id/button_add"
+        app:tint="@color/white" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:indeterminateTint="@color/white"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="@id/button_add"
+        app:layout_constraintStart_toStartOf="@id/button_add"
+        app:layout_constraintEnd_toEndOf="@id/button_add"
+        app:layout_constraintBottom_toBottomOf="@id/button_add"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

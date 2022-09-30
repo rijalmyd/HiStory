@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable-v24/ic_baseline_arrow_back_white_ios_24.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable-v24/ic_baseline_arrow_forward_24.xml" value="0.161" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable-v24/ic_image.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable-v24/ic_location.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable-v24/ic_title.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable-v24/rounded_background.xml" value="0.161" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/bg_button.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/bg_dialog.xml" value="0.161" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/bg_edit_text.xml" value="0.195" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/bg_sheet.xml" value="0.161" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.103" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_camera.xml" value="0.1135" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_flag_id.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_flag_us.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_home.xml" value="0.1135" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1135" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_location.xml" value="0.155" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/ic_switch_camera.xml" value="0.161" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/drawable/shimmer_item_story.xml" value="0.1135" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/activity_add.xml" value="0.15" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/activity_auth.xml" value="0.2" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/activity_camera.xml" value="0.15" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/content_upload.xml" value="0.18" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/fragment_home.xml" value="0.15" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/fragment_login.xml" value="0.23482428115015974" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/fragment_on_boarding.xml" value="0.18" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/fragment_register.xml" value="0.22" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/image_banner_app_widget.xml" value="0.13148907103825136" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/item_loading.xml" value="0.13422131147540983" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/item_story.xml" value="0.22" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.22" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/layout_button.xml" value="0.21" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/layout_fab.xml" value="0.15" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/layout_info_maps.xml" value="0.13422131147540983" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/shimmer_item_story.xml" value="0.18" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/layout/widget_item.xml" value="0.13148907103825136" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/menu/home_menu.xml" value="0.15" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/menu/main_nav_menu.xml" value="0.15" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/menu/profile_menu.xml" value="0.1" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/xml/file_paths.xml" value="0.15" />
+        <entry key="..\:/1_Intermediate/HiStory/app/src/main/res/xml/image_banner_app_widget_info.xml" value="0.13148907103825136" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

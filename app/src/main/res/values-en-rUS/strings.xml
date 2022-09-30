@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HiStory</string>
+    <string name="empty_text">No data</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="image_stack_desc">Image stack widget</string>
+    <string name="profile">Profile</string>
+    <string name="language">Language</string>
+    <string name="others">Others</string>
+    <string name="logout">Logout</string>
+    <string name="create_story_here">Create your story here</string>
+    <string name="add_desc">Add description…</string>
+    <string name="location">Location</string>
+    <string name="add_img">Add photo</string>
+    <string name="del_img">Remove photo</string>
+    <string name="login_title">Let\'s sign you in.</string>
+    <string name="login_welcome">Welcome back. \nYou\'ve been missed!</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="login">Login</string>
+    <string name="gambar_welcome">Image welcome</string>
+    <string name="onboard_title">Create your story here.</string>
+    <string name="onboard_detail">An application that will always accompany you whenever and wherever you are.</string>
+    <string name="register">Register</string>
+    <string name="register_title">Let\'s sign you up.</string>
+    <string name="register_create">Create account.</string>
+    <string name="name">Name</string>
+    <string name="have_account">Already have an account? Login</string>
+    <string name="gallery">Gallery</string>
+    <string name="camerax">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="home">Home</string>
+    <string name="error_desc">Required to fill in the description</string>
+    <string name="error_choose_img">Choose a picture!</string>
+    <string name="error_permission">Not getting permissions!</string>
+    <string name="error_camera">Camera failed</string>
+    <string name="email">Email</string>
+    <string name="error_email">Enter a valid email</string>
+    <string name="password">Password</string>
+    <string name="error_password"><![CDATA[ Password must be >= 6 characters ]]></string>
+    <string name="under_development">Under development</string>
+    <string name="try_again">Try again</string>
+    <string name="choose_image">Choose an image</string>
+    <string name="no_location">Location not found</string>
+    <string name="failed_get_photo">Failed to get photo</string>
+    <string name="no_story_location">No story location</string>
+</resources>
